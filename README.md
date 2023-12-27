@@ -15,5 +15,3 @@ Steps to use it:
 
 ![Screenshot (51)](https://github.com/priyanshusharma80/YouTubeBookmarker/assets/92197251/44c02109-123d-45fa-9c42-400c64401924)
 
-[7 Vital Questions We Address on an Onboarding Call for Success!.pdf](https://github.com/priyanshusharma80/YouTubeBookmarker/files/13778689/7.Vital.Questions.We.Address.on.an.Onboarding.Call.for.Success.pdf)
-
